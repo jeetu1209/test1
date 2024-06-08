@@ -1,0 +1,5 @@
+rg="storagerg"
+location = "West Europe"
+storage = "storage2260823"
+account_tier_name = "standerd"
+account_replication_type = "LRS"
